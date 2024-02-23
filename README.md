@@ -4,7 +4,7 @@ Welcome to the official repository for Triweb Applications (TWApps), where you c
 
 ## Featured Applications
 
-- [**Banner:**](banner/) A simple tool for setting up a static website using DNS TXT records. No coding or server management required.
+- [**Banner:**](https://github.com/triweb/triweb-apps-banner/) A simple tool for setting up a static website using DNS TXT records. No coding or server management required.
 - **More Applications:** Visit [Triweb's Apps Page](https://triweb.com/apps/) for a comprehensive list of available applications.
 
 ## Getting Started
